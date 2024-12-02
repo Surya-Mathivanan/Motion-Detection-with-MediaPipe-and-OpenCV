@@ -29,4 +29,5 @@ This project demonstrates real-time human motion detection using MediaPipe's Pos
   - OpenCV for video processing.
 
 ## Output
+![Screenshot 2024-12-02 235725](https://github.com/user-attachments/assets/053e44dc-5ffa-4f83-b71c-2520905d1bb0)
 
